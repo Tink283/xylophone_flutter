@@ -5,5 +5,5 @@ class text{
 
 }
 class Conflict{
-  
+
 }
