@@ -10,3 +10,6 @@ class Conflict{
 class pull_request{
 
 }
+class github_flow{
+  
+}
